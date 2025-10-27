@@ -1,5 +1,5 @@
 {
-  "name": "alexahdp/nestjs-mcp/server",
+  "name": "@alexahdp/nestjs-mcp-server",
   "version": "0.3.0",
   "description": "Modular library for building scalable MCP servers with NestJS, providing decorators and integration patterns as a wrapper for the official MCP TypeScript SDK.",
   "author": "Adrián Darío Hidalgo Flores, Aleksandr Pezikov",
